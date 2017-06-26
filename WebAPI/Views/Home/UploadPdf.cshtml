@@ -1,0 +1,16 @@
+﻿@{
+    ViewBag.Title = "title";
+    Layout = "../Shared/_Layout.cshtml";
+}
+
+<h2>Upload PDF file</h2>
+
+<form name="form" method="post" enctype="multipart/form-data" action="/api/Documents/">
+    <div>
+        <label>PDF file</label>
+        <input name="pdfFile" type="file" accept="application/pdf" multiple/>
+    </div>
+    <div>
+        <input type="submit" value="Submit" />
+    </div>
+</form>

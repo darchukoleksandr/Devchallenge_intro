@@ -1,0 +1,32 @@
+[
+  {
+    "outputFileName": "Content/css/bootstrap-theme.min.css",
+    "inputFiles": [
+      "Content/css/bootstrap-theme.css"
+    ]
+  },
+  {
+    "outputFileName": "Content/css/bootstrap.min.css",
+    "inputFiles": [
+      "Content/css/bootstrap.css"
+    ]
+  },
+  {
+    "outputFileName": "Content/css/Site.min.css",
+    "inputFiles": [
+      "Content/css/Site.css"
+    ]
+  },
+  {
+    "outputFileName": "Content/scripts/bootstrap.min.js",
+    "inputFiles": [
+      "Content/scripts/bootstrap.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/scripts/respond.min.js",
+    "inputFiles": [
+      "Content/scripts/respond.js"
+    ]
+  }
+]
